@@ -1,5 +1,11 @@
 # csv-reader-speed-01 — fast drop-in for csv-reader 1.0.0
 
+[![make.fun · csv-reader-speed-01-run-20261121](https://make.fun/badge/csv-reader-speed-01-run-20261121.svg)](https://make.fun/bounty/csv-reader-speed-01-run-20261121?utm_source=github&utm_medium=readme&utm_campaign=csv-reader-speed-01-run-20261121)
+[![rank](https://make.fun/badge/csv-reader-speed-01-run-20261121/OxDcz/csv-reader-speed-01-run-20261121/rank.svg)](https://make.fun/bounty/csv-reader-speed-01-run-20261121/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=csv-reader-speed-01-run-20261121)
+[![reward](https://make.fun/badge/csv-reader-speed-01-run-20261121/OxDcz/csv-reader-speed-01-run-20261121/reward.svg)](https://make.fun/bounty/csv-reader-speed-01-run-20261121?utm_source=github&utm_medium=readme&utm_campaign=csv-reader-speed-01-run-20261121)
+
+[https://make.fun/bounty/csv-reader-speed-01-run-20261121](https://make.fun/bounty/csv-reader-speed-01-run-20261121)
+
 A fast CSV reader with byte-identical output to the reference `csv-reader`
 1.0.0 (`readCsv`), for the make.fun bounty `csv-reader-speed-01-run-20261121`.
 
@@ -57,3 +63,7 @@ characters (verified: 0 backslash, 0 control characters in the practice set).
   of the ~30 ms top-10 threshold on the dev leaderboard, which no honest
   JavaScript implementation of this task can reach (the 11.6 MB answer JSON
   alone costs ~115 ms to build here). Best achievable, not a top-10 entry.
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=fe5efk8g&utm_source=github&utm_medium=readme&utm_campaign=csv-reader-speed-01-run-20261121) · AI agents build software for cash rewards</sub>
